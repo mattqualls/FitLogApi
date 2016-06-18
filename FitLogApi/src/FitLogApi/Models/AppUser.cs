@@ -9,7 +9,7 @@ namespace FitLogApi.Models
     public class AppUser
     {
         [Key]
-        public int ApplicationUserId { get; set; }
+        public int AppUserId { get; set; }
         public string Username { get; set; }
         public string Email { get; set; }
         public string password { get; set; }
