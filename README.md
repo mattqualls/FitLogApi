@@ -1,1 +1,2 @@
-# FitLogApi
+# FitLogApi-Server
+**Work in Progress**
