@@ -5,3 +5,5 @@
 # User Story
 
 **1. User will be able to use the most commmon of cardio equipment and note the metrics that they provide at the end of a session. Initially utilizing treadmill, bike, and elliptical machines. They all provide the same available types of data in the form of Minutes, Miles/distance, and k/cal burned.**
+
+**2. I want to keep the amount of input to a minimum in the early stages as to make the user experience as easy as possible. With this in mind the user will have a simple initial input form to "log" the session into memory.**
